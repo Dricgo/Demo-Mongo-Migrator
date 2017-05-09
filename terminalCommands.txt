@@ -1,0 +1,11 @@
+Demo-Mongo-Migrator git:(master) ✗ node ./node_modules/mongodb-migrate -runmm -dbn dbSettings up
+up : migrations/0010-test1.js
+up : migrations/0015-test2.js
+migration : complete
+
+Where it keeps data backup ?
+
+
+How would it sync up the data
+
+How does it maintains the versions 
